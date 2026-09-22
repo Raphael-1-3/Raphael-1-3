@@ -24,10 +24,7 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Raphael-1-3&show_icons=true&theme=default&hide_border=true&hide_title=true)
 
-
-![Streak](https://streak-stats.demolab.com?user=Raphael-1-3&theme=default&hide_border=true)
 
 ### 📫 Contact
 📧 brousseau.raphael1802@gmail.com
