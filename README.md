@@ -1,6 +1,7 @@
 # Raphaël Brousseau
 
-Étudiant BUT Informatique · IUT d'Orléans · parcours RAC&D
+Étudiant en BUT Informatique (3ème année, RAC&D)
+Intéressé par le cycle de vie complet d'un projet — du besoin à la livraison, en passant par le dev, les tests et le CI/CD
 
 
 ## Stack / Technologies
